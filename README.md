@@ -1,16 +1,55 @@
-# provider
+# 📝 Provider To-Do App (Flutter)
 
-A new Flutter project.
+A simple and clean **To-Do application built with Flutter** using the **Provider** package for state management.  
+This project is perfect for learning how Provider works in real Flutter apps.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add new tasks  
+- ✏️ Edit existing tasks  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete tasks  
+- ⚡ Efficient state management using Provider  
+- 📱 Responsive UI (Android & iOS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 What I Learned
+
+- How to use **Provider** for state management  
+- Managing app state cleanly and efficiently  
+- Separating UI and business logic  
+- Building scalable Flutter project structure  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Provider** (State Management)
+
+# 📦 Dependencies
+provider: ^6.0.0
+
+# 📖 Useful Resources
+
+Flutter Documentation
+
+Provider Package
+
+Flutter Codelab
+
+Flutter Cookbook
+
+
+# 👩‍💻 Author
+
+Kaniza
+Flutter & Web Developer • Graphic Designer
+
+🔗 GitHub: https://github.com/kanizadev
+
+⭐ If you like this project, don’t forget to give it a star!
